@@ -21,8 +21,6 @@ function Counter() {
     <header className="App-header">
        <nav class="navbar navbar-light bg-warning">
          <div class="container"><h1>Counter Application</h1>
-         <a class="navbar-brand" href="#">
-         </a>
          </div>
        </nav>
        <div style={{
